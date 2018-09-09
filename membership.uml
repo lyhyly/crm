@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="684.0">cn.lger.domain.Admin</node>
+    <node x="0.0" y="532.0">cn.lger.web.GiftController</node>
+    <node x="0.0" y="228.0">cn.lger.web.CommodityController</node>
+    <node x="156.0" y="608.0">cn.lger.dao.AdminDao</node>
+    <node x="310.0" y="608.0">cn.lger.service.GiftService</node>
+    <node x="248.0" y="76.0">cn.lger.service.TransactionRecordService</node>
+    <node x="130.0" y="684.0">cn.lger.domain.Gift</node>
+    <node x="509.0" y="532.0">cn.lger.domain.Commodity</node>
+    <node x="0.0" y="608.0">cn.lger.domain.AdminRole</node>
+    <node x="464.0" y="608.0">cn.lger.domain.Member</node>
+    <node x="546.0" y="456.0">cn.lger.util.FileUploadUtil</node>
+    <node x="0.0" y="380.0">cn.lger.util.UUIDRandomUtil</node>
+    <node x="519.0" y="0.0">cn.lger.web.BirthdayWarningController</node>
+    <node x="202.0" y="304.0">cn.lger.service.CommodityService</node>
+    <node x="457.0" y="152.0">cn.lger.service.MemberGradeService</node>
+    <node x="231.0" y="152.0">cn.lger.dao.TransactionRecordDao</node>
+    <node x="0.0" y="0.0">cn.lger.web.TransactionRecordController</node>
+    <node x="0.0" y="304.0">cn.lger.domain.TransactionRecord</node>
+    <node x="432.0" y="228.0">cn.lger.dao.MemberGradeDao</node>
+    <node x="382.0" y="380.0">cn.lger.web.AdminController</node>
+    <node x="342.0" y="532.0">cn.lger.dao.MemberDao</node>
+    <node x="171.0" y="532.0">cn.lger.service.AdminService</node>
+    <node x="491.0" y="76.0">cn.lger.web.MemberGradeController</node>
+    <node x="367.0" y="456.0">cn.lger.domain.MemberGrade</node>
+    <node x="570.0" y="380.0">cn.lger.dao.CommodityDao</node>
+    <node x="0.0" y="152.0">cn.lger.service.ExchangeRecordService</node>
+    <node x="0.0" y="456.0">cn.lger.service.MemberService</node>
+    <node x="192.0" y="380.0">cn.lger.domain.ExchangeRecord</node>
+    <node x="0.0" y="76.0">cn.lger.web.ExchangeRecordController</node>
+    <node x="607.0" y="608.0">cn.lger.dao.GiftDao</node>
+    <node x="218.0" y="228.0">cn.lger.dao.ExchangeRecordDao</node>
+    <node x="260.0" y="0.0">cn.lger.util.MemberNumberRandomUtil</node>
+    <node x="403.0" y="304.0">cn.lger.web.MemberController</node>
+    <node x="184.0" y="456.0">cn.lger.web.LoginController</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.24350086655112652" x="-115.49466192170826" y="1193.5480427046264" />
+  <SelectedNodes>
+    <node>cn.lger.domain.Gift</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
