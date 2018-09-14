@@ -3,13 +3,21 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>cn.lger</groupId>
-	<artifactId>membership</artifactId>
+	<groupId>com.lytwsy</groupId>
+	<artifactId>crm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>membership</name>
-	<description>membership project for Spring Boot</description>
+	<name>crm</name>
+	<description>crm project for Spring Boot</description>
+	<developers>
+		<developer>
+			<id>sun</id>
+			<name>无心</name>
+			<email>***@gmail.com</email>
+			<timezone>+8</timezone>
+		</developer>
+	</developers>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
